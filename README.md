@@ -1,4 +1,13 @@
 
+## Project structure and goals:
+
+frontend ->lambda ->FastAPi->dynomodb
+initial loading page take times 5-7 seconds because of lambda
+swap city works in first 2 text box for demo purposes I added London and Amsterdam and do filtering
+calander working and filtering when clicking arrows forward and backward (calandar icon is not functional)
+Filters : stops and Airlines dropdowns do filter (bags, price .., does not filter)
+Shorting: Shorting dropdown do shorts :Top flights ,proce, emissions, stop 
+
 ## API Folder
 
 The `/api` folder contains the Python FastAPI code.And generation of code by calling seed endpoint.
