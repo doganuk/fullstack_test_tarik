@@ -36,6 +36,6 @@ cdk deploy
 
 ## Frontend Folder
 
-The `/todo-site` contains the AlphineJs frontend that interfaces 
+The `/frontend` contains the AlphineJs frontend that interfaces 
 
 
